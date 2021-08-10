@@ -8,6 +8,10 @@ I'm passionate about solving problems and learning. Always open to new challenge
  - 📖 Currently studying Node.JS, Express and Nest.JS
  - 💻 Building projects with Laravel 8 & Vue
 
+# Skills
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CezarRoberto&show_icons=true&theme=dracula)
+
+
 
 ### Reach me out 👇
 ✉️ Mail: cezarrobertorodrigues50@gmail.com
