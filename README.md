@@ -5,8 +5,8 @@ My name is Cézar Rodrigues, I'm from Brazil :brazil: I'm a Computer Enginner, t
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes
 
  - 📍 São Luís, Maranhão
- - 📖 Currently studying Node.JS, Express and Nest.JS
- - 💻 Building projects with Laravel 8 & Vue
+ - 📖 Currently studying TypeScript within Node.JS, Nest.js, GraphQL and React
+ 
 
 # Status 📊
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CezarRoberto&show_icons=true&theme=dracula)
