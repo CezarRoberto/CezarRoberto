@@ -5,7 +5,7 @@ My name is Cézar Rodrigues, I'm from Brazil :brazil: I'm a Computer Enginner, t
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes
 
  - 📍 São Luís, Maranhão
- - 📖 Currently studying TypeScript within Node.JS, Nest.js, GraphQL and React
+ - 📖 Currently studying TypeScript within Node.JS, Nest.JS & Express.JS GraphQL & RESTApi and React
  
 
 # Status 📊
