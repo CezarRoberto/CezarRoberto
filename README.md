@@ -1,6 +1,6 @@
 # Hey 👋
 
-My name is Cézar Rodrigues, I'm from Brazil I'm a Computer Enginner Student, that have been working to improve my code skills everyday
+My name is Cézar Rodrigues from Brazil. I'm a Computer Enginner Student, that have been working to improve my code skills everyday
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes
 
