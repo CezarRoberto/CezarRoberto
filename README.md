@@ -8,9 +8,12 @@ I'm passionate about solving problems and learning. Always open to new challenge
  - 📖 Currently studying TypeScript within Node.JS, Nest.JS & Express.JS GraphQL & RESTApi and React
  
 
-# Status 📊
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CezarRoberto&show_icons=true&theme=dracula)
-
+# Github Status 📊
+<div>
+   <a href="https://github.com/CezarRoberto">
+   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=CezarRoberto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CezarRoberto&layout=compact&langs_count=16&theme=dracula"/>
+<div>
 
 
 ### Reach me out 👇
