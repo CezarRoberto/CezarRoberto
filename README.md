@@ -5,7 +5,7 @@ My name is Cézar Rodrigues from Brazil. I'm a Computer Enginner Student, that h
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes
 
  - 📍 São Luís, Maranhão
- - 📖 Currently studying Python as Data Sciense
+ - 📖 Currently studying Java/TypeScript as FrontEnd and BackEnd
  
 
 # Github Status 📊
