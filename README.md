@@ -5,7 +5,15 @@ My name is Cézar Rodrigues from Brazil. I'm a Computer Enginner Student, that h
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes
 
  - 📍 São Luís, Maranhão
- - 📖 Currently studying Java/TypeScript as FrontEnd and BackEnd
+ -💻 Currently studying Java/TypeScript as Full Stack Engineer 
+ - React.JS
+ - Typescript
+ - Node.Js
+ - GraphQL
+ - Express
+ - MongoDB
+ - PostgresSQL
+ - Chakra UI / SCSS / Tailwild CSS
  
 
 # Github Status 📊
