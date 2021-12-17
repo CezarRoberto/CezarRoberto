@@ -1,19 +1,21 @@
 # Hey 👋
 
-My name is Cézar Rodrigues from Brazil. I'm a Computer Enginner Student, that have been working to improve my code skills everyday
+```js
+export class Developer {
+   name: string = 'Cezar';
+   location: string = 'Sao Luis-Ma';
+   age: number = 20;
+   currentJob: string = 'Student';
+   isAvaliable: boolean = true
+}
 
-I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes
-
- - 📍 São Luís, Maranhão
- -💻 Currently studying Java/TypeScript as Full Stack Engineer 
- - React.JS
- - Typescript
- - Node.Js
- - GraphQL
- - Express
- - MongoDB
- - PostgresSQL
- - Chakra UI / SCSS / Tailwild CSS
+class Skills extends Developer {
+    frontEnd: string[] = ['React','Redux','Chakra-UI','Materail-UI','NextJs'];
+    backEnd: string[] = ['NodeJs','Express','TypeORM','GraphQL','Redis'];
+    database: string[] = ['PostgreSQL','MySQL'];
+    languages: string[] = ['TypeScript', 'JavaScript', 'Python']
+}
+```
  
 
 # Github Status 📊
