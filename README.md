@@ -4,16 +4,16 @@
 export class Developer {
    name: string = 'Cezar';
    location: string = 'Sao Luis-Ma';
-   age: number = 20;
-   currentJob: string = 'Student';
+   age: number = 21;
+   currentJob: string = 'Full-Stack Chat2desk';
    isAvaliable: boolean = true
 }
 
 class Skills extends Developer {
     frontEnd: string[] = ['React','Redux','Chakra-UI','Materail-UI','NextJs'];
-    backEnd: string[] = ['NodeJs','Express','TypeORM','GraphQL','Redis'];
-    database: string[] = ['PostgreSQL','MySQL'];
-    languages: string[] = ['TypeScript', 'JavaScript', 'Python']
+    backEnd: string[] = ['NodeJs','Express','TypeORM','GraphQL','Prisma'];
+    database: string[] = ['PostgreSQL','MySQL','Redis' ];
+    tech-languages: string[] = ['TypeScript', 'JavaScript', 'Python']
 }
 ```
  
