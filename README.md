@@ -1,20 +1,17 @@
 
 ###  Hi, I'm Cézar ✋
 
-I am a software developer and an enthusiast of technology as a mean to impact the world using programming language! My experience comprehends back end web apps built with Node.js and TypeScript in a modular achitecture and frameworks such as Express and Management Storages such as Postgres and MongoDB. I'm also a contributer to the tech community, sharing knowledge howhever I can!
+I am a software developer and an enthusiast of technology as a mean to impact the world using programming language! My experience comprehends back end web apps built with Node.js and TypeScript in a modular achitecture and frameworks such as Express, Koa and Fastify and Management Storages such as Postgres and MongoDB, coding using DDD and TDD methods. I'm also a contributer to the tech community, sharing knowledge howhever I can!
 
 ###  Learning and CSI/CSD (continuous self improvement/development)
 
 My currently focus is on the following study topics:
 
-- Front end development with Next.js and React;
+- Kubernetes
 
-- TDD;
+- DevOps Seps / SSR / SEO
 
-- CI/CD workflows;
-
-- Redis/Kafka
-- Orchestrate Docker's containers  ;
+- Golang
 
 Find me elsewhere🌐:<br/>
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cézar-rodrigues-538653211/)
