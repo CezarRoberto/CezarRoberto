@@ -19,13 +19,6 @@ Find me elsewhere🌐:<br/>
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cez_rodrigues/)
 [![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/cezarroberto/)
 
-# Github Status 📊
-<div>
-   <a href="https://github.com/CezarRoberto">
-   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=CezarRoberto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CezarRoberto&layout=compact&langs_count=16&theme=dracula"/>
-<div>
-
 
 ### Reach me out 👇
 ✉️ Mail: cezarrobertorodrigues50@gmail.com
